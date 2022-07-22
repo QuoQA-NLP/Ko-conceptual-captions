@@ -9,7 +9,7 @@
 
 |                       Original Dataset                       | Machine Translated Dataset | Gold-label Translation Dataset |
 | :----------------------------------------------------------: | :------------------------: | :----------------------------: |
-| [CC3M](https://huggingface.co/datasets/conceptual_captions)  |           K-CC3M           |               -                |
+| [CC3M](https://huggingface.co/datasets/conceptual_captions)  | [KoCC3M](QuoQA-NLP/KoCC3M) |               -                |
 |   [CC12M](https://huggingface.co/datasets/conceptual_12m)    |             -              |               -                |
 | [YFCC100M](https://multimediacommons.wordpress.com/yfcc100m-core-dataset/) |             -              |               -                |
 
